@@ -1,15 +1,4 @@
-Here’s a minimal one for project:
-
 streamlit
 pandas
 scikit-learn
-
-📌 Steps:
-
-Create a file named requirements.txt in your project folder.
-
-Copy the above lines into it.
-
-When deploying or setting up in VS Code, you can install dependencies with:
-
 pip install -r requirements.txt
